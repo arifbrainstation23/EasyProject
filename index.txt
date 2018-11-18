@@ -4,7 +4,17 @@
 
 	<body>
 		<h1>Hello World</h1>
+<<<<<<< HEAD
 		<p>Changes by Admin</p>
+=======
+
+		<ul>
+
+			<li>Arif</li>
+			<li>Ron</li>
+	
+		</ul>
+>>>>>>> user1
 	</body>
 
 
